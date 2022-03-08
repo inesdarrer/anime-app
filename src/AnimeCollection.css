@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+  }
+  .anime-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 2em;
+  }
+  
+  p{
+    color:black;
+  }
+  .anime-card {
+    text-align: center;
+    padding: 10px;
+    width: 200px;
+    border-radius: 5px;
+    padding: 1em;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
+  img {
+    height: 100%;
+    width: 100%;
+    margin:0;
+  }
+  
